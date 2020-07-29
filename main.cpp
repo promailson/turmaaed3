@@ -7,6 +7,6 @@ int main(){
 	cout << "Digite seu nome";
 	cin >> nome;
 	cout << "Ola " << nome;
-	
+	cout << "Teste";
 	return 0;
 }	
